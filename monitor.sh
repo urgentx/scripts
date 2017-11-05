@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to create xrandr profiles for two 1440x900 monitors.
+# Script to create xrandr profiles for monitors.
 #
 #TO DO: 
 #Problem with --addmode after multiple uses of script. 
